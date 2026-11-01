@@ -44,10 +44,11 @@ Bill of Materials (BOM) Table
 
 | Part / Material | Quantity | Unit Price | Buying Link |
 |---|---:|---:|---|
-| XIAO RP2040 | 1 | TBD | [Seeed Studio](https://www.seeedstudio.com/) |
-| 5 mm white LED | 2 | TBD | Add product link |
-| 5 mm common-cathode RGB LED | 1 | TBD | Add product link |
-| Current-limiting resistors | 5 | TBD | Add product link |
-| Push button | 1 | TBD | Add product link |
-| 10kΩ potentiometer | 1 | TBD | Add product link |
-| Custom PCB | 1 | TBD | [JLCPCB](https://jlcpcb.com/) |
+| XIAO RP2040 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/) |
+| 5 mm white LED | 2 | $0.40 | [MicroCenter](https://www.microcenter.com/product/456219/adafruit-industries-super-bright-white-5mm-led-25-pack) |
+| 5 mm common-cathode RGB LED | 1 | $1.49 | [TinkerSphere](https://tinkersphere.com/standard-leds/46-rgb-led.html) |
+| Resistors(100 Ohms) | 4 | $0.08 | [SparkFun Electronics](https://www.sparkfun.com/components/resistors.html) |
+| Resistor(270 Ohms) | 1 | $0.05 | [Jameco](https://www.jameco.com/z/CF1-4W271JRC-Jameco-Valuepro-Resistor-Carbon-Film-270-Ohm-1-4-Watt-5-_690726.html) |
+| Push button | 1 | $0.13 | [DigiKey](https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536) |
+| 10kΩ potentiometer | 1 | $1.25 | [SparkFun Electronics](https://www.sparkfun.com/rotary-potentiometer-linear-10k-ohm.html) |
+| Custom PCB | 1 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
