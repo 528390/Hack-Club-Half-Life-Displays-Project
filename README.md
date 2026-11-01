@@ -44,7 +44,7 @@ Bill of Materials (BOM) Table
 
 | Part / Material | Quantity | Unit Price | Buying Link |
 |---|---:|---:|---|
-| XIAO RP2040 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/) |
+| XIAO RP2040 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html) |
 | 5 mm white LED | 2 | $0.40 | [MicroCenter](https://www.microcenter.com/product/456219/adafruit-industries-super-bright-white-5mm-led-25-pack) |
 | 5 mm common-cathode RGB LED | 1 | $1.49 | [TinkerSphere](https://tinkersphere.com/standard-leds/46-rgb-led.html) |
 | Resistors(100Ω) | 4 | $0.08 | [SparkFun Electronics](https://www.sparkfun.com/resistor-100-ohm-1-4-watt-pth-20-pack-thick-leads.html) |
