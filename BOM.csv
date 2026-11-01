@@ -2,5 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO RP2040,1,Seeed Studio,$5.00,$5.00,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html
 5 mm white LED,2,MicroCenter,$0.40,$0.80,https://www.microcenter.com/product/456219/adafruit-industries-super-bright-white-5mm-led-25-pack
 5 mm common-cathode RGB LED,1,TinkerSphere,$1.49,$1.49,https://tinkersphere.com/standard-leds/46-rgb-led.html
-Resistors(270Ω),1,Jameco,$0.05,$0.05,https://www.jameco.com/z/CF1-4W271JRC-Jameco-Valuepro-Resistor-Carbon-Film-270-Ohm-1-4-Watt-5-_690726.html
+Resistor(270Ω),1,Jameco,$0.05,$0.05,https://www.jameco.com/z/CF1-4W271JRC-Jameco-Valuepro-Resistor-Carbon-Film-270-Ohm-1-4-Watt-5-_690726.html
 Estimated total shipping,1,,,$0.00,
