@@ -47,7 +47,7 @@ Bill of Materials (BOM) Table
 | XIAO RP2040 | 1 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/) |
 | 5 mm white LED | 2 | $0.40 | [MicroCenter](https://www.microcenter.com/product/456219/adafruit-industries-super-bright-white-5mm-led-25-pack) |
 | 5 mm common-cathode RGB LED | 1 | $1.49 | [TinkerSphere](https://tinkersphere.com/standard-leds/46-rgb-led.html) |
-| Resistors(100 Ohms) | 4 | $0.08 | [SparkFun Electronics](https://www.sparkfun.com/components/resistors.html) |
+| Resistors(100 Ohms) | 4 | $0.08 | [SparkFun Electronics](https://www.sparkfun.com/resistor-100-ohm-1-4-watt-pth-20-pack-thick-leads.html) |
 | Resistor(270 Ohms) | 1 | $0.05 | [Jameco](https://www.jameco.com/z/CF1-4W271JRC-Jameco-Valuepro-Resistor-Carbon-Film-270-Ohm-1-4-Watt-5-_690726.html) |
 | Push button | 1 | $0.13 | [DigiKey](https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536) |
 | 10kΩ potentiometer | 1 | $1.25 | [SparkFun Electronics](https://www.sparkfun.com/rotary-potentiometer-linear-10k-ohm.html) |
