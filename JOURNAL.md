@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 2 | 2h | 1 |
+| Week 4 | Tier 1 | 2h | 1 |
 
 ## Contents
 
